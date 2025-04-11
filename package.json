@@ -1,0 +1,25 @@
+{
+  "name": "msc-yoyo-menu",
+  "version": "1.0.0",
+  "description": "<msc-yoyo-menu /> is a 「Path」 menu like effect. Menu will spray out when user press trigger. Developer could collect some feature triggers or shortcuts through <msc-yoyo-menu />.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-yoyo-menu.git"
+  },
+  "keywords": [
+    "web",
+    "front-end",
+    "web component",
+    "menu"
+  ],
+  "author": "Paul Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-yoyo-menu/issues"
+  },
+  "homepage": "https://github.com/meistudioli/msc-yoyo-menu#readme"
+}
